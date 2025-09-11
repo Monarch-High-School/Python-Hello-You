@@ -1,15 +1,12 @@
 """
-This program asks a user for their name and says "Hello, name!"
-Jon Cihlar - September 2025
+Describe your program
+First Last - Date
 """
 
 # This is a single line comment
 
 def main() -> None:
-    name: str = "Jon"
-    print("Hello,", name, "!")
-    print("Hello, " + name + "!")
-    print(f"Hello, {name}!")
+    pass
 
 
 if __name__ == "__main__":
